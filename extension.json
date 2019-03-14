@@ -1,0 +1,9 @@
+{
+  "id": "telus-product-price-chooser",
+  "name": "telus-product-price-chooser",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Symbol",
+    "Text"
+  ]
+}
